@@ -1,0 +1,11 @@
+.imageupload{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 10px auto;
+    object-fit: contain;
+}
+
+.imageupload__progress{
+    width: 100%;
+}
